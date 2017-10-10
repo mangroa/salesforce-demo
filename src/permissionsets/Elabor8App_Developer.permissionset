@@ -4,6 +4,10 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Elabor8__c.FreeText__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Elabor8__c.LocationField__c</field>
         <readable>false</readable>
     </fieldPermissions>
