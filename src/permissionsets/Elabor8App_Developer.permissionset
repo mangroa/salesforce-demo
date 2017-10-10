@@ -4,6 +4,7 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Elabor8__c.FreeText__c</field>
+        <field>Elabor8__c.LocationField__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
