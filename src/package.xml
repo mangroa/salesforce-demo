@@ -13,12 +13,12 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>Elabor8App_Developer</members>
-        <name>PermissionSet</name>
-    </types>
-    <types>
         <members>Elabor8__c-Elabor8 Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>Elabor8App_Developer</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>Admin</members>

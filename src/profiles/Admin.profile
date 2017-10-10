@@ -16,11 +16,6 @@
         <field>Elabor8__c.LocationField__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Elabor8__c.testfield__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Elabor8__c-Elabor8 Layout</layout>
     </layoutAssignments>
