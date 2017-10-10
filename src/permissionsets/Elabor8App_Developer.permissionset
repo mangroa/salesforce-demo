@@ -11,6 +11,11 @@
         <field>Elabor8__c.LocationField__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Elabor8__c.testfield__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Elabor8App Developer</label>
     <license>Salesforce</license>

@@ -16,5 +16,9 @@
         <members>Elabor8App_Developer</members>
         <name>PermissionSet</name>
     </types>
+    <types>
+        <members>Elabor8__c-Elabor8 Layout</members>
+        <name>Layout</name>
+    </types>
     <version>40.0</version>
 </Package>

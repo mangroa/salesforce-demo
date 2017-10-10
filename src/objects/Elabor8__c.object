@@ -66,7 +66,7 @@
     </fields>
     <fields>
         <fullName>LocationField__c</fullName>
-        <description>This is the LocationField </description>
+        <description>This is the LocationField</description>
         <externalId>false</externalId>
         <label>LocationField</label>
         <length>100</length>
@@ -74,6 +74,18 @@
         <trackFeedHistory>false</trackFeedHistory>
         <trackTrending>false</trackTrending>
         <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>testfield__c</fullName>
+        <externalId>false</externalId>
+        <label>testfield</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
         <unique>false</unique>
     </fields>
     <label>Elabor8</label>
