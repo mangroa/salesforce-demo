@@ -52,11 +52,24 @@
     <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>FreeText__c</fullName>
+        <description>FreeText field</description>
+        <externalId>false</externalId>
+        <label>FreeText</label>
+        <length>100</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Elabor8</label>
     <listViews>
         <fullName>All</fullName>
         <columns>NAME</columns>
         <columns>OBJECT_ID</columns>
+        <columns>FreeText__c</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>

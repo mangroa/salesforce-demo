@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <description>Permission Set generated for access to custom object Merchendise for the app AlansApp</description>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Elabor8__c.FreeText__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Elabor8App Developer</label>
     <license>Salesforce</license>
