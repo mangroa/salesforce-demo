@@ -4,4 +4,5 @@
     <description>This is a generic template for Custom Application.  With this template, you may adjust the default elements and values and add new elements and values.</description>
     <label>Elabor8App</label>
     <tab>Elabor8__c</tab>
+    <tab>standard-account</tab>
 </CustomApplication>
