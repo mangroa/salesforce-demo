@@ -56,7 +56,7 @@
         <fullName>FreeText__c</fullName>
         <description>FreeText field</description>
         <externalId>false</externalId>
-        <label>FreeText</label>
+        <label>FreeTextELABOR8</label>
         <length>100</length>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
