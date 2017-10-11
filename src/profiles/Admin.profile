@@ -5,6 +5,10 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    <classAccesses>
+        <apexClass>HelloWorld</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
@@ -14,6 +18,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Elabor8__c.LocationField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Elabor8__c.testfield__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
